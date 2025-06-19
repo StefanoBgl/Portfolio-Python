@@ -1,0 +1,1 @@
+The **Supermarket Sales** dataset contains records of individual transactions made at a supermarket chain across three different cities. Although synthetic, it is designed to simulate realistic retail scenarios and is widely used for exploratory data analysis, visualization, and basic machine learning tasks.
